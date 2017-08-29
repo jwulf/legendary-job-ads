@@ -1,3 +1,5 @@
+![Just Digital People](img/justdigitalpeople.png)
+
 # Senior Developer for the Prince of Darkness
 
 Reporting directly to the CEO with dotted line reports to three senior VPs in distinct geos, you will be working in a tiny, cramped dark room in the sub-basement level of this condemned building. The office is situated next to a power generator and has a constant but varied background noise somewhere between 70db-90db. The temperature also fluctuates but does not fall below 30 degrees on the side of the office next to the powerplant. The other side of the office fluctuates between 25 and 6 degrees due to the industrial cold storage facility on the other side of the wall. 
