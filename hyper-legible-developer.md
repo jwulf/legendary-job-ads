@@ -39,9 +39,13 @@ Both opportunities are located in the Brisbane CBD, with no option for remote wo
 If you like the sound of this role, CLICK APPLY or get in touch! If this position is not quite the right one then don't worry! We always have a wide range of different and cool jobs going that are all things digital :) Who knows, we may just have that special something you've been looking for.
 
 **Joshua Wulf**
+
 **Just Digital People**
+
 **ph/txt:** 0431 929 675
+
 **w:** www.justdigitalpeople.com.au
+
 **e:** josh@justdigitalpeople.com.au
 
 _I only work with organisations that value professional software development and professional software developers._
