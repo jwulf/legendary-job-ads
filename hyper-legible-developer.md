@@ -1,3 +1,5 @@
+![Just Digital People](img/justdigitalpeople.png)
+
 ## Hyperlegible Developer for Big Browser-Blockchain Startup
 
 Jump aboard this hype train, because it's about to leave the station!
