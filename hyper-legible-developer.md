@@ -12,7 +12,7 @@ For those who have already rocked, we salute you!
 
 IBM Hyperledger is emerging as a front-runner in Blockchain technology for startups. We're working with no less than two start-ups using it; and we're looking for developers with experience developing on IBM Hyperledger Fabric.
 
-These companies may well implode - after all, "the first guy through the door gets shot" as you'll hear in "Banking on Bitcoin", the new documentary on Netflix.
+These companies may well implode - after all, "the first guy through the door gets shot" as you'll hear one pundit say of early adopters in "_Banking on Bitcoin_", the Bitcoin documentary on Netflix.
 
 However, your career will continue its meteoric rise from those ashes - like a Phoenix.
 
